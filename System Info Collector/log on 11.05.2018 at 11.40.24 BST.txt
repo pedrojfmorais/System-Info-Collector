@@ -1,0 +1,47 @@
+System Information on 11/05/2018 at 11:40:24 BST ------------------------------------------------------------------ 
+
+System Information --------------------------------------- 
+
+Computer Name: DESKTOP-AIKVB5E 
+Logged User: pedrojfmorais 
+Operative System name: Windows 10 
+Operative System Version: 10.0 
+
+It is: 11:40 AM 
+Computer on for: 14:12 hours.
+
+CPU Information ------------------------------------------ 
+
+Vendor.........Intel
+Model..........Core(TM) i3-5005U CPU @ 2.00GHz
+Mhz............1995
+Total CPUs.....4
+Physical CPUs..4
+Cores per CPU..16
+
+The CPU usage is: 2,35%
+
+GPU Information ------------------------------------------ 
+
+Card name: Intel(R) HD Graphics 5500
+Current Mode: 1366 x 768 (32 bit) (60Hz)
+
+RAM Information ------------------------------------------ 
+
+Memory Used: 2,93 GB / 4,19 GB
+Memory Free: 1,27 GB / 4,19 GB
+Total Memory: 4,19 GB
+
+Disk Information ----------------------------------------- 
+
+Disk Free Space: 70,62 GB / 498,61 GB
+Disk Used Space: 427,99 GB / 498,61 GB
+Total Disk Space: 498,61 GB
+
+Internet Connection -------------------------------------- 
+
+System IP Address : 192.168.111.1
+Public IP Address: 176.79.54.216
+
+----------------------------------------------------------------------------------------------- 
+
